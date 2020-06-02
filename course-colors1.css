@@ -1,0 +1,31 @@
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+body { border-top-color: #674ea7; }
+.page-header { border-bottom-color:#674ea7; color: #674ea7; }
+.footer { border-top-color:#674ea7; }
+
+h2 {
+	color:#674ea7;
+	border-bottom-color:#674ea7;
+}
+img.icon.neg {
+	background: #674ea7;
+}
+.table th,
+.table td {
+  border-top-color:#674ea7;
+}
+.table tbody + tbody {
+  border-top-color:#674ea7;
+}
+.table-bordered {
+  border-color:#674ea7;
+ }
+.table-striped tbody > tr:nth-child(odd) > td
+{
+  background-color: #674ea7;
+}
+
+
+blockquote.disclaimer { background: #eee; border-color: #aaa; }
+div.code { border-color: #cbb; background: #fee; }
