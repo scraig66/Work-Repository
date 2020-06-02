@@ -1,0 +1,29 @@
+body { border-top-color: #752f8a; }
+.page-header { border-bottom-color:#752f8a; color: #752f8a; }
+.footer { border-top-color:#752f8a; }
+
+h2 {
+	color:#752f8a;
+	border-bottom-color:#752f8a;
+}
+img.icon.neg {
+	background: #1d2d5c;
+}
+.table th,
+.table td {
+  border-top-color:#cec6b3;
+}
+.table tbody + tbody {
+  border-top-color:#cec6b3;
+}
+.table-bordered {
+  border-color:#cec6b3;
+ }
+.table-striped tbody > tr:nth-child(odd) > td
+{
+  background-color: #e7e2d9;
+}
+
+
+blockquote.disclaimer { background: #eee; border-color: #aaa; }
+div.code { border-color: #cbb; background: #fee; }
